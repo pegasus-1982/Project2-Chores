@@ -1,5 +1,5 @@
 # :sparkles: Project Title  Project Express and Heroku   :sparkles:
-================
+==================
 ## Author :bowtie:
 ***
 
@@ -37,6 +37,7 @@ and can visualize in [Github pages](https://rakeru2006.github.io/express_heroku/
   This proyect going to used this license:
   ~~~
   ISC
+  GNU GPLv3
   ~~~
 
   You can read more about this in
